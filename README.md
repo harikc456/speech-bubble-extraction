@@ -1,10 +1,13 @@
 # speech-bubble-extraction
  Extracting the text from speech bubbles from manga
 
-After training the efficientdet for 3 epochs on the Manga109 dataset
+After training the efficientdet for 3 epochs on the Manga109 dataset <br>
 
-<img src="out.png"></img>
+<img src="out_efficientdet.png"></img>
 
+Text detection provided by easyocr for the same page <br>
+
+<img src="out_easyocr.png"></img>
 ## Credits
 
 I am using the scripts in src folder from signatrix implementation of efficientdet which is available <a href="https://github.com/signatrix/efficientdet"> here </a> <br>
