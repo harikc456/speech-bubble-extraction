@@ -279,7 +279,7 @@ class EfficientDet(nn.Module):
 
             scores = torch.max(classification, dim=2, keepdim=True)[0]
 
-            scores_over_thresh = (scores > 0.10)[0, :, 0]
+            scores_over_thresh = (scores > 0.05)[0, :, 0]
 
             if scores_over_thresh.sum() == 0:
                 return [torch.zeros(0), torch.zeros(0), torch.zeros(0, 4)]
