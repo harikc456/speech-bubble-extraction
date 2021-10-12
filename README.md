@@ -7,7 +7,18 @@ After training the efficientdet for 3 epochs on the Manga109 dataset <br>
 
 Text detection provided by easyocr for the same page <br>
 
-<img src="out_easyocr.png"></img>
+Google translation with easyocr <br>
+
+<div class="row">
+  <div class="column">
+    <img src="out_easyocr.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="translated.jpg" alt="Forest" style="width:100%">
+  </div>
+</div>
+
+
 ## Credits
 
 I am using the scripts in src folder from signatrix implementation of efficientdet which is available <a href="https://github.com/signatrix/efficientdet"> here </a> <br>
