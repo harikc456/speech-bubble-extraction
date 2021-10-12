@@ -33,6 +33,7 @@ I also used the <a href="https://github.com/manga109/manga109api">manga109api </
 
 ## To do
 <ul>
- <li>Extracting text from the detected speech bubbles text</li>
  <li> Enhancing the text containing parts of the image using morphological operations for improving the OCR's performance </li>
+ <li> Improve Cleaning <li>
+ <li> Improve text placement <li>
 </ul>
