@@ -11,7 +11,7 @@ Google translation with easyocr <br>
 
 <div class="row">
   <div class="column">
-    <img src="out_easyocr.jpg" alt="Snow" style="width:100%">
+    <img src="out_easyocr.png" alt="Snow" style="width:100%">
   </div>
   <div class="column">
     <img src="translated.jpg" alt="Forest" style="width:100%">
