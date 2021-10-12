@@ -5,8 +5,6 @@ After training the efficientdet for 3 epochs on the Manga109 dataset <br>
 
 <img src="out_efficientdet.png"></img>
 
-Text detection provided by easyocr for the same page <br>
-
 Google translation with easyocr <br>
 
 <div class="row">
