@@ -6,7 +6,7 @@
 python easyocr_translate.py --img_path IMG_PATH --out_path OUT_PATH
 ```
 
-<strong> Its a work in progress, the quality of cleaning and translation is bad </strong>
+<strong> Its a work in progress, the quality of cleaning and translation is very poor</strong>
 
 ## Sample Output
 
